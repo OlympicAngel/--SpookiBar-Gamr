@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://abz.somee.com/www.abz.somee.com/service/" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite=" http://abz.somee.com" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="almogi1009" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAX/TC4WP44UyajCpgEBLmCgAAAAACAAAAAAAQZgAAAAEAACAAAADGOivCMo3CFGtozo9B1XVHrQBV/DBCR5mPeNb/q3BihwAAAAAOgAAAAAIAACAAAABVVnFLpbRyyA4NXi3QGKrvyojcWyenPfKKP3ZFkwypEiAAAAD0My7DA/dObTBAdc7qdWa5amdrnb3fwvvDCo9u2GH1BkAAAAC9u6B25gvG/wkf4cIj+YN2DeOYC/VeqZbd8U0KpdFi8f35v1cF0hU4Pbhr/2k2RfD7dnVJ04ThobnxhK+zi5s1" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="09/30/2016 00:37:08" />
+    <file relUrl="bin/UsersDataService.dll" publishTime="09/30/2016 00:33:51" />
+    <file relUrl="bin/UsersDataService.pdb" publishTime="09/30/2016 00:33:51" />
+    <file relUrl="UserService.svc" publishTime="01/26/2016 13:20:54" />
+    <file relUrl="App_Data/Database.accdb" publishTime="08/29/2016 11:10:46" />
+  </publishProfile>
+</publishData>

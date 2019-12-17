@@ -1,0 +1,1324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\m.png</Source>
+      <Name>images\m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\m.xnb</Output>
+      <Time>2015-06-07T19:32:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\m2.png</Source>
+      <Name>images\m2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\m2.xnb</Output>
+      <Time>2015-06-07T19:32:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\hallway.png</Source>
+      <Name>images\game\hallway</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\hallway.xnb</Output>
+      <Time>2016-09-07T13:27:58.4185535+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\LeftAirVent.jpg</Source>
+      <Name>images\game\LeftAirVent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\LeftAirVent.xnb</Output>
+      <Time>2016-05-01T23:14:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\monitorbutton.png</Source>
+      <Name>images\game\monitorbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\monitorbutton.xnb</Output>
+      <Time>2015-06-11T18:58:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\toiletRoomOn.jpg</Source>
+      <Name>images\game\toiletRoomOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\toiletRoomOn.xnb</Output>
+      <Time>2016-03-28T16:59:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\monitor.png</Source>
+      <Name>images\game\monitor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\monitor.xnb</Output>
+      <Time>2016-04-01T23:06:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\lightOff.png</Source>
+      <Name>images\game\lightOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\lightOff.xnb</Output>
+      <Time>2015-06-13T00:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\lightOn.png</Source>
+      <Name>images\game\lightOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\lightOn.xnb</Output>
+      <Time>2015-06-13T00:20:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\monitorMap.png</Source>
+      <Name>images\game\monitorMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\monitorMap.xnb</Output>
+      <Time>2016-09-08T11:48:59.0395193+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\ABZ logo.png</Source>
+      <Name>images\ABZ logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\ABZ logo.xnb</Output>
+      <Time>2015-10-07T22:47:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\loadscreen.png</Source>
+      <Name>images\loadscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\loadscreen.xnb</Output>
+      <Time>2016-03-03T10:58:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\login\blood.png</Source>
+      <Name>images\login\blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\login\blood.xnb</Output>
+      <Time>2016-09-08T11:06:38.7062205+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\login\text-inputk.png</Source>
+      <Name>images\login\text-inputk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\login\text-inputk.xnb</Output>
+      <Time>2016-09-08T11:16:07.5387559+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\login\button.png</Source>
+      <Name>images\login\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\login\button.xnb</Output>
+      <Time>2016-09-08T11:26:12.6133642+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\credit.jpg</Source>
+      <Name>images\credit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\credit.xnb</Output>
+      <Time>2016-09-08T00:03:25.5082983+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\battery.png</Source>
+      <Name>images\game\battery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\battery.xnb</Output>
+      <Time>2015-11-10T14:11:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\batteryBar.png</Source>
+      <Name>images\game\batteryBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\batteryBar.xnb</Output>
+      <Time>2015-11-10T14:11:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\login\Loading.png</Source>
+      <Name>images\login\Loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\login\Loading.xnb</Output>
+      <Time>2016-02-04T10:18:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\001.png</Source>
+      <Name>gif\line\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\001.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\002.png</Source>
+      <Name>gif\line\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\002.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\003.png</Source>
+      <Name>gif\line\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\003.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\004.png</Source>
+      <Name>gif\line\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\004.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\005.png</Source>
+      <Name>gif\line\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\005.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\006.png</Source>
+      <Name>gif\line\006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\006.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\007.png</Source>
+      <Name>gif\line\007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\007.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\008.png</Source>
+      <Name>gif\line\008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\008.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\009.png</Source>
+      <Name>gif\line\009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\009.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\010.png</Source>
+      <Name>gif\line\010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\010.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\011.png</Source>
+      <Name>gif\line\011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\011.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\012.png</Source>
+      <Name>gif\line\012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\012.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\013.png</Source>
+      <Name>gif\line\013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\013.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\014.png</Source>
+      <Name>gif\line\014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\014.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\015.png</Source>
+      <Name>gif\line\015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\015.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\016.png</Source>
+      <Name>gif\line\016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\line\016.xnb</Output>
+      <Time>2015-06-06T12:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\001.jpg</Source>
+      <Name>gif\screen\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\screen\001.xnb</Output>
+      <Time>2015-06-08T14:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\002.jpg</Source>
+      <Name>gif\screen\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\screen\002.xnb</Output>
+      <Time>2015-06-08T14:56:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\003.jpg</Source>
+      <Name>gif\screen\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\screen\003.xnb</Output>
+      <Time>2015-06-08T14:56:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\004.jpg</Source>
+      <Name>gif\screen\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\screen\004.xnb</Output>
+      <Time>2015-06-08T14:56:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\005.jpg</Source>
+      <Name>gif\screen\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\screen\005.xnb</Output>
+      <Time>2015-06-08T14:56:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\006.jpg</Source>
+      <Name>gif\screen\006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\screen\006.xnb</Output>
+      <Time>2015-06-08T14:56:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\007.jpg</Source>
+      <Name>gif\screen\007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\screen\007.xnb</Output>
+      <Time>2015-06-08T14:56:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\summer\room 1.png</Source>
+      <Name>room skins\summer\room 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\summer\room 1.xnb</Output>
+      <Time>2016-05-14T19:08:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\summer\room 2.png</Source>
+      <Name>room skins\summer\room 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\summer\room 2.xnb</Output>
+      <Time>2016-04-01T23:47:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\summer\room 3.png</Source>
+      <Name>room skins\summer\room 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\summer\room 3.xnb</Output>
+      <Time>2016-05-28T18:49:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\summer\room 4.png</Source>
+      <Name>room skins\summer\room 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\summer\room 4.xnb</Output>
+      <Time>2016-05-14T18:36:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\summer\room 5.png</Source>
+      <Name>room skins\summer\room 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\summer\room 5.xnb</Output>
+      <Time>2016-05-28T17:06:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>shop\track.png</Source>
+      <Name>shop\track</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\shop\track.xnb</Output>
+      <Time>2016-04-02T16:47:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>shop\border.png</Source>
+      <Name>shop\border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\shop\border.xnb</Output>
+      <Time>2016-04-02T16:54:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\shop.jpg</Source>
+      <Name>images\shop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\shop.xnb</Output>
+      <Time>2016-10-16T00:34:26.5149404+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\mainscreen.png</Source>
+      <Name>images\mainscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\mainscreen.xnb</Output>
+      <Time>2016-09-04T02:14:29.9928538+03:00</Time>
+    </Item>
+    <Item>
+      <Source>shop\battery.png</Source>
+      <Name>shop\battery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\shop\battery.xnb</Output>
+      <Time>2016-04-04T19:43:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>forcefield\aura.png</Source>
+      <Name>forcefield\aura</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\forcefield\aura.xnb</Output>
+      <Time>2016-04-24T00:31:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>forcefield\electro.png</Source>
+      <Name>forcefield\electro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\forcefield\electro.xnb</Output>
+      <Time>2016-04-24T00:26:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\6AirVent.jpg</Source>
+      <Name>images\game\6AirVent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\6AirVent.xnb</Output>
+      <Time>2016-05-01T23:12:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\midAirVent.jpg</Source>
+      <Name>images\game\midAirVent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\midAirVent.xnb</Output>
+      <Time>2016-05-01T23:14:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\endscreen.jpg</Source>
+      <Name>images\endscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\endscreen.xnb</Output>
+      <Time>2016-04-25T00:42:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\startroom.jpg</Source>
+      <Name>images\game\startroom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\startroom.xnb</Output>
+      <Time>2016-05-04T21:59:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\chucki\room 2.png</Source>
+      <Name>room skins\chucki\room 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\chucki\room 2.xnb</Output>
+      <Time>2016-10-16T00:39:09.8071438+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\chucki\room 8.png</Source>
+      <Name>room skins\chucki\room 8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\chucki\room 8.xnb</Output>
+      <Time>2016-10-16T00:39:31.1903668+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob\room 1.png</Source>
+      <Name>room skins\bob\room 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob\room 1.xnb</Output>
+      <Time>2016-10-16T00:36:03.3044764+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob\room 2.png</Source>
+      <Name>room skins\bob\room 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob\room 2.xnb</Output>
+      <Time>2016-10-16T00:36:20.8564803+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob\room 3.png</Source>
+      <Name>room skins\bob\room 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob\room 3.xnb</Output>
+      <Time>2016-10-16T00:36:33.3571953+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob\room 4.png</Source>
+      <Name>room skins\bob\room 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob\room 4.xnb</Output>
+      <Time>2016-10-16T00:36:51.2742201+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob\room 5.png</Source>
+      <Name>room skins\bob\room 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob\room 5.xnb</Output>
+      <Time>2016-10-16T00:37:14.9585748+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob\room 8.png</Source>
+      <Name>room skins\bob\room 8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob\room 8.xnb</Output>
+      <Time>2016-10-16T00:37:56.0969278+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob\room 6.png</Source>
+      <Name>room skins\bob\room 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob\room 6.xnb</Output>
+      <Time>2016-05-07T17:00:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob\room 7.png</Source>
+      <Name>room skins\bob\room 7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob\room 7.xnb</Output>
+      <Time>2016-10-16T00:37:35.7737654+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob\room 9.png</Source>
+      <Name>room skins\bob\room 9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob\room 9.xnb</Output>
+      <Time>2016-10-16T00:38:13.181905+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\chucki\room 10.png</Source>
+      <Name>room skins\chucki\room 10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\chucki\room 10.xnb</Output>
+      <Time>2016-10-16T00:39:43.9720979+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\chucki\room 11.png</Source>
+      <Name>room skins\chucki\room 11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\chucki\room 11.xnb</Output>
+      <Time>2016-10-16T00:40:03.9412401+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\chucki\room 6.png</Source>
+      <Name>room skins\chucki\room 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\chucki\room 6.xnb</Output>
+      <Time>2016-05-07T17:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\chucki\room 7.png</Source>
+      <Name>room skins\chucki\room 7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\chucki\room 7.xnb</Output>
+      <Time>2016-05-30T18:43:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>forcefield\force field.png</Source>
+      <Name>forcefield\force field</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\forcefield\force field.xnb</Output>
+      <Time>2016-05-28T19:43:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\progile.png</Source>
+      <Name>images\progile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\progile.xnb</Output>
+      <Time>2016-05-21T21:50:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\progileScrool.png</Source>
+      <Name>images\progileScrool</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\progileScrool.xnb</Output>
+      <Time>2016-05-21T21:53:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\win.png</Source>
+      <Name>images\win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\win.xnb</Output>
+      <Time>2016-05-18T21:04:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\danceOn.png</Source>
+      <Name>images\game\danceOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\danceOn.xnb</Output>
+      <Time>2016-09-07T13:34:08.5027211+03:00</Time>
+    </Item>
+    <Item>
+      <Source>shop\Money.png</Source>
+      <Name>shop\Money</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\shop\Money.xnb</Output>
+      <Time>2016-05-19T11:33:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>shop\points.png</Source>
+      <Name>shop\points</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\shop\points.xnb</Output>
+      <Time>2016-05-19T11:33:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\3.jpg</Source>
+      <Name>images\game\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\3.xnb</Output>
+      <Time>2016-05-28T18:39:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\room7.png</Source>
+      <Name>images\game\room7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\room7.xnb</Output>
+      <Time>2016-05-30T11:52:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\9.png</Source>
+      <Name>images\game\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\game\9.xnb</Output>
+      <Time>2016-09-07T13:54:15.3857509+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\crinfo.jpg</Source>
+      <Name>images\crinfo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\crinfo.xnb</Output>
+      <Time>2016-06-01T10:05:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel\pixelDaekGray.png</Source>
+      <Name>Pixel\pixelDaekGray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\Pixel\pixelDaekGray.xnb</Output>
+      <Time>2016-09-03T17:16:15.6177212+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel\pixelDarkRED.png</Source>
+      <Name>Pixel\pixelDarkRED</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\Pixel\pixelDarkRED.xnb</Output>
+      <Time>2016-09-03T17:16:15.6237216+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel\pixelGray.png</Source>
+      <Name>Pixel\pixelGray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\Pixel\pixelGray.xnb</Output>
+      <Time>2016-09-03T17:16:15.6297219+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel\pixelLightGray.png</Source>
+      <Name>Pixel\pixelLightGray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\Pixel\pixelLightGray.xnb</Output>
+      <Time>2016-09-03T17:16:15.648723+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel\pixelLightRed.png</Source>
+      <Name>Pixel\pixelLightRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\Pixel\pixelLightRed.xnb</Output>
+      <Time>2016-09-03T17:16:15.6547234+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel\pixelRedFadeTrans.png</Source>
+      <Name>Pixel\pixelRedFadeTrans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\Pixel\pixelRedFadeTrans.xnb</Output>
+      <Time>2016-09-03T17:16:15.6617238+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\login\login.png</Source>
+      <Name>images\login\login</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\images\login\login.xnb</Output>
+      <Time>2016-10-16T00:33:36.3870732+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\bob.png</Source>
+      <Name>room skins\bob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\bob.xnb</Output>
+      <Time>2016-10-16T00:30:10.182279+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\spider.png</Source>
+      <Name>room skins\spider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\spider.xnb</Output>
+      <Time>2016-10-16T00:30:24.274085+03:00</Time>
+    </Item>
+    <Item>
+      <Source>room skins\summer.png</Source>
+      <Name>room skins\summer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\room skins\summer.xnb</Output>
+      <Time>2016-10-16T00:30:43.2741717+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\left.png</Source>
+      <Name>gif\v2\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\left.xnb</Output>
+      <Time>2016-11-16T14:41:53.4089743+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\mid.png</Source>
+      <Name>gif\v2\mid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\mid.xnb</Output>
+      <Time>2016-11-16T14:40:46.1551276+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\right.png</Source>
+      <Name>gif\v2\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\right.xnb</Output>
+      <Time>2016-11-16T14:40:36.2085587+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\l0001.jpg</Source>
+      <Name>gif\v2\f\l0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\l0001.xnb</Output>
+      <Time>2016-11-16T12:11:09.180674+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\l0002.jpg</Source>
+      <Name>gif\v2\f\l0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\l0002.xnb</Output>
+      <Time>2016-11-16T12:11:09.1266709+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\l0003.jpg</Source>
+      <Name>gif\v2\f\l0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\l0003.xnb</Output>
+      <Time>2016-11-16T12:11:09.0716678+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\l0004.jpg</Source>
+      <Name>gif\v2\f\l0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\l0004.xnb</Output>
+      <Time>2016-11-16T12:11:09.0156646+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\l0005.jpg</Source>
+      <Name>gif\v2\f\l0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\l0005.xnb</Output>
+      <Time>2016-11-16T12:11:08.9616615+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\l0006.jpg</Source>
+      <Name>gif\v2\f\l0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\l0006.xnb</Output>
+      <Time>2016-11-16T12:11:08.9056583+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\l0007.jpg</Source>
+      <Name>gif\v2\f\l0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\l0007.xnb</Output>
+      <Time>2016-11-16T12:11:08.8516552+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\l0008.jpg</Source>
+      <Name>gif\v2\f\l0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\l0008.xnb</Output>
+      <Time>2016-11-16T12:11:08.7946519+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\l0009.jpg</Source>
+      <Name>gif\v2\f\l0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\l0009.xnb</Output>
+      <Time>2016-11-16T12:11:08.7376487+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\r0001.jpg</Source>
+      <Name>gif\v2\f\r0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\r0001.xnb</Output>
+      <Time>2016-11-16T12:11:08.079611+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\r0002.jpg</Source>
+      <Name>gif\v2\f\r0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\r0002.xnb</Output>
+      <Time>2016-11-16T12:11:08.1606157+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\r0003.jpg</Source>
+      <Name>gif\v2\f\r0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\r0003.xnb</Output>
+      <Time>2016-11-16T12:11:08.2566211+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\r0004.jpg</Source>
+      <Name>gif\v2\f\r0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\r0004.xnb</Output>
+      <Time>2016-11-16T12:11:08.3256251+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\r0005.jpg</Source>
+      <Name>gif\v2\f\r0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\r0005.xnb</Output>
+      <Time>2016-11-16T12:11:08.3816283+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\r0006.jpg</Source>
+      <Name>gif\v2\f\r0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\r0006.xnb</Output>
+      <Time>2016-11-16T12:11:08.4396316+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\r0007.jpg</Source>
+      <Name>gif\v2\f\r0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\r0007.xnb</Output>
+      <Time>2016-11-16T12:11:08.499635+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\r0008.jpg</Source>
+      <Name>gif\v2\f\r0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\r0008.xnb</Output>
+      <Time>2016-11-16T12:11:08.5576384+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\v2\f\r0009.jpg</Source>
+      <Name>gif\v2\f\r0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\v2\f\r0009.xnb</Output>
+      <Time>2016-11-16T12:11:08.6236421+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\blur.png</Source>
+      <Name>gif\blur\blur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\gif\blur\blur.xnb</Output>
+      <Time>2016-11-27T01:27:48.6459547+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\click.wav</Source>
+      <Name>sound\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\click.xnb</Output>
+      <Time>2016-03-28T09:24:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\cloun.wav</Source>
+      <Name>sound\cloun</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\cloun.xnb</Output>
+      <Time>2016-03-28T09:24:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\creepy.wav</Source>
+      <Name>sound\creepy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\creepy.xnb</Output>
+      <Time>2016-03-28T09:24:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\kill.wav</Source>
+      <Name>sound\kill</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\kill.xnb</Output>
+      <Time>2016-03-28T09:24:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\static.wav</Source>
+      <Name>sound\static</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\static.xnb</Output>
+      <Time>2016-03-28T09:24:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\stepE.wav</Source>
+      <Name>sound\stepE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\stepE.xnb</Output>
+      <Time>2016-03-28T09:24:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\behind.wav</Source>
+      <Name>sound\behind</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\behind.xnb</Output>
+      <Time>2016-03-28T09:24:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\loose.wav</Source>
+      <Name>sound\loose</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\loose.xnb</Output>
+      <Time>2016-03-28T09:24:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\tp.wav</Source>
+      <Name>sound\tp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\tp.xnb</Output>
+      <Time>2016-03-28T09:24:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\win.wav</Source>
+      <Name>sound\win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\win.xnb</Output>
+      <Time>2016-03-28T09:24:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\spidermove.wav</Source>
+      <Name>sound\spidermove</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\spidermove.xnb</Output>
+      <Time>2016-03-30T11:01:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\baz.wav</Source>
+      <Name>sound\baz</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\baz.xnb</Output>
+      <Time>2016-05-28T23:28:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\creep.wav</Source>
+      <Name>sound\creep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\creep.xnb</Output>
+      <Time>2016-05-28T23:28:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\sacre.wav</Source>
+      <Name>sound\sacre</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\sacre.xnb</Output>
+      <Time>2016-05-28T23:28:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\power.wav</Source>
+      <Name>sound\power</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\power.xnb</Output>
+      <Time>2016-05-28T23:28:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\metalic.WAV</Source>
+      <Name>sound\metalic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\metalic.xnb</Output>
+      <Time>2016-09-07T01:35:10.5831746+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\motion.wav</Source>
+      <Name>sound\motion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\motion.xnb</Output>
+      <Time>2016-11-21T14:22:07.4468474+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\powerdown.wav</Source>
+      <Name>sound\powerdown</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\sound\powerdown.xnb</Output>
+      <Time>2016-11-22T22:15:02.8837175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kills\bobkill.wmv</Source>
+      <Name>kills\bobkill</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\kills\bobkill.xnb</Output>
+      <Extra>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\kills\bobkill.wmv</Extra>
+      <Time>2016-04-24T21:02:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>kills\summerkill.wmv</Source>
+      <Name>kills\summerkill</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\kills\summerkill.xnb</Output>
+      <Extra>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\kills\summerkill.wmv</Extra>
+      <Time>2016-05-03T14:01:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>kills\spooderkill.wmv</Source>
+      <Name>kills\spooderkill</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\kills\spooderkill.xnb</Output>
+      <Extra>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\kills\spooderkill.wmv</Extra>
+      <Time>2016-05-13T14:09:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\MenuBIG.spritefont</Source>
+      <Name>fonts\MenuBIG</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\fonts\MenuBIG.xnb</Output>
+      <Time>2016-09-03T22:06:04.1942909+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki barContent\</RootDirectory>
+      <LoggerRootDirectory>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki barContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\SpookI Bar\1The Game reDesign\spooki bar\spooki bar\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-22T20:57:49.0472089+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,4 @@
+D:\SpookI Bar\spooki bar\spooki barContent\obj\x86\Debug\spooki barContent.contentprojResolveAssemblyReference.cache
+C:\Users\h\Desktop\תיקיה חדשה\spooki bar\spooki barContent\obj\x86\Debug\spooki barContent.contentprojResolveAssemblyReference.cache
+D:\SpookI Bar\game\spooki bar\spooki barContent\obj\x86\Debug\spooki barContent.contentprojResolveAssemblyReference.cache
+D:\SpookI Bar\game - עותק\spooki bar\spooki barContent\obj\x86\Debug\spooki barContent.contentprojResolveAssemblyReference.cache

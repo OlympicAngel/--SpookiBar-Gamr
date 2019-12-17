@@ -1,0 +1,3485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gif\blur\1.png</Source>
+      <Name>gif\blur\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\1.xnb</Output>
+      <Time>2015-06-08T15:44:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\10.png</Source>
+      <Name>gif\blur\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\10.xnb</Output>
+      <Time>2015-06-08T15:44:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\11.png</Source>
+      <Name>gif\blur\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\11.xnb</Output>
+      <Time>2015-06-08T15:44:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\12.png</Source>
+      <Name>gif\blur\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\12.xnb</Output>
+      <Time>2015-06-08T15:44:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\13.png</Source>
+      <Name>gif\blur\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\13.xnb</Output>
+      <Time>2015-06-08T15:44:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\14.png</Source>
+      <Name>gif\blur\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\14.xnb</Output>
+      <Time>2015-06-08T15:44:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\15.png</Source>
+      <Name>gif\blur\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\15.xnb</Output>
+      <Time>2015-06-08T15:44:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\16.png</Source>
+      <Name>gif\blur\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\16.xnb</Output>
+      <Time>2015-06-08T15:44:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\17.png</Source>
+      <Name>gif\blur\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\17.xnb</Output>
+      <Time>2015-06-08T15:44:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\18.png</Source>
+      <Name>gif\blur\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\18.xnb</Output>
+      <Time>2015-06-08T15:44:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\19.png</Source>
+      <Name>gif\blur\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\19.xnb</Output>
+      <Time>2015-06-08T15:44:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\2.png</Source>
+      <Name>gif\blur\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\2.xnb</Output>
+      <Time>2015-06-08T15:44:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\20.png</Source>
+      <Name>gif\blur\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\20.xnb</Output>
+      <Time>2015-06-08T15:44:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\21.png</Source>
+      <Name>gif\blur\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\21.xnb</Output>
+      <Time>2015-06-08T15:44:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\22.png</Source>
+      <Name>gif\blur\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\22.xnb</Output>
+      <Time>2015-06-08T15:44:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\3.png</Source>
+      <Name>gif\blur\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\3.xnb</Output>
+      <Time>2015-06-08T15:44:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\4.png</Source>
+      <Name>gif\blur\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\4.xnb</Output>
+      <Time>2015-06-08T15:44:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\5.png</Source>
+      <Name>gif\blur\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\5.xnb</Output>
+      <Time>2015-06-08T15:44:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\6.png</Source>
+      <Name>gif\blur\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\6.xnb</Output>
+      <Time>2015-06-08T15:44:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\7.png</Source>
+      <Name>gif\blur\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\7.xnb</Output>
+      <Time>2015-06-08T15:44:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\8.png</Source>
+      <Name>gif\blur\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\8.xnb</Output>
+      <Time>2015-06-08T15:44:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\blur\9.png</Source>
+      <Name>gif\blur\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\blur\9.xnb</Output>
+      <Time>2015-06-08T15:44:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\1.png</Source>
+      <Name>gif\line\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\1.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\10.png</Source>
+      <Name>gif\line\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\10.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\11.png</Source>
+      <Name>gif\line\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\11.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\12.png</Source>
+      <Name>gif\line\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\12.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\13.png</Source>
+      <Name>gif\line\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\13.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\14.png</Source>
+      <Name>gif\line\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\14.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\15.png</Source>
+      <Name>gif\line\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\15.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\16.png</Source>
+      <Name>gif\line\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\16.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\2.png</Source>
+      <Name>gif\line\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\2.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\3.png</Source>
+      <Name>gif\line\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\3.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\4.png</Source>
+      <Name>gif\line\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\4.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\5.png</Source>
+      <Name>gif\line\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\5.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\6.png</Source>
+      <Name>gif\line\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\6.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\7.png</Source>
+      <Name>gif\line\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\7.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\8.png</Source>
+      <Name>gif\line\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\8.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\line\9.png</Source>
+      <Name>gif\line\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\line\9.xnb</Output>
+      <Time>2015-06-06T13:53:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0001.jpg</Source>
+      <Name>gif\bar\name0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0001.xnb</Output>
+      <Time>2015-06-07T08:48:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0002.jpg</Source>
+      <Name>gif\bar\name0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0002.xnb</Output>
+      <Time>2015-06-07T08:48:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0003.jpg</Source>
+      <Name>gif\bar\name0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0003.xnb</Output>
+      <Time>2015-06-07T08:48:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0004.jpg</Source>
+      <Name>gif\bar\name0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0004.xnb</Output>
+      <Time>2015-06-07T08:48:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0005.jpg</Source>
+      <Name>gif\bar\name0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0005.xnb</Output>
+      <Time>2015-06-07T08:48:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0006.jpg</Source>
+      <Name>gif\bar\name0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0006.xnb</Output>
+      <Time>2015-06-07T08:48:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0007.jpg</Source>
+      <Name>gif\bar\name0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0007.xnb</Output>
+      <Time>2015-06-07T08:48:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0008.jpg</Source>
+      <Name>gif\bar\name0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0008.xnb</Output>
+      <Time>2015-06-07T08:48:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0009.jpg</Source>
+      <Name>gif\bar\name0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0009.xnb</Output>
+      <Time>2015-06-07T08:48:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0010.jpg</Source>
+      <Name>gif\bar\name0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0010.xnb</Output>
+      <Time>2015-06-07T08:48:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0011.jpg</Source>
+      <Name>gif\bar\name0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0011.xnb</Output>
+      <Time>2015-06-07T08:48:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0012.jpg</Source>
+      <Name>gif\bar\name0012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0012.xnb</Output>
+      <Time>2015-06-07T08:48:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0013.jpg</Source>
+      <Name>gif\bar\name0013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0013.xnb</Output>
+      <Time>2015-06-07T08:48:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0014.jpg</Source>
+      <Name>gif\bar\name0014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0014.xnb</Output>
+      <Time>2015-06-07T08:48:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0015.jpg</Source>
+      <Name>gif\bar\name0015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0015.xnb</Output>
+      <Time>2015-06-07T08:48:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0016.jpg</Source>
+      <Name>gif\bar\name0016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0016.xnb</Output>
+      <Time>2015-06-07T08:48:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0017.jpg</Source>
+      <Name>gif\bar\name0017</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0017.xnb</Output>
+      <Time>2015-06-07T08:48:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0018.jpg</Source>
+      <Name>gif\bar\name0018</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0018.xnb</Output>
+      <Time>2015-06-07T08:48:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0019.jpg</Source>
+      <Name>gif\bar\name0019</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0019.xnb</Output>
+      <Time>2015-06-07T08:48:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0020.jpg</Source>
+      <Name>gif\bar\name0020</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0020.xnb</Output>
+      <Time>2015-06-07T08:48:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0021.jpg</Source>
+      <Name>gif\bar\name0021</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0021.xnb</Output>
+      <Time>2015-06-07T08:48:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0022.jpg</Source>
+      <Name>gif\bar\name0022</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0022.xnb</Output>
+      <Time>2015-06-07T08:48:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0023.jpg</Source>
+      <Name>gif\bar\name0023</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0023.xnb</Output>
+      <Time>2015-06-07T08:48:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0024.jpg</Source>
+      <Name>gif\bar\name0024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0024.xnb</Output>
+      <Time>2015-06-07T08:48:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0025.jpg</Source>
+      <Name>gif\bar\name0025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0025.xnb</Output>
+      <Time>2015-06-07T08:48:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0026.jpg</Source>
+      <Name>gif\bar\name0026</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0026.xnb</Output>
+      <Time>2015-06-07T08:48:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0027.jpg</Source>
+      <Name>gif\bar\name0027</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0027.xnb</Output>
+      <Time>2015-06-07T08:48:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0028.jpg</Source>
+      <Name>gif\bar\name0028</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0028.xnb</Output>
+      <Time>2015-06-07T08:48:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0029.jpg</Source>
+      <Name>gif\bar\name0029</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0029.xnb</Output>
+      <Time>2015-06-07T08:48:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0030.jpg</Source>
+      <Name>gif\bar\name0030</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0030.xnb</Output>
+      <Time>2015-06-07T08:48:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0031.jpg</Source>
+      <Name>gif\bar\name0031</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0031.xnb</Output>
+      <Time>2015-06-07T08:48:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0032.jpg</Source>
+      <Name>gif\bar\name0032</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0032.xnb</Output>
+      <Time>2015-06-07T08:48:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0033.jpg</Source>
+      <Name>gif\bar\name0033</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0033.xnb</Output>
+      <Time>2015-06-07T08:48:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0034.jpg</Source>
+      <Name>gif\bar\name0034</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0034.xnb</Output>
+      <Time>2015-06-07T08:48:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0035.jpg</Source>
+      <Name>gif\bar\name0035</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0035.xnb</Output>
+      <Time>2015-06-07T08:48:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0036.jpg</Source>
+      <Name>gif\bar\name0036</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0036.xnb</Output>
+      <Time>2015-06-07T08:48:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0037.jpg</Source>
+      <Name>gif\bar\name0037</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0037.xnb</Output>
+      <Time>2015-06-07T08:48:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0038.jpg</Source>
+      <Name>gif\bar\name0038</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0038.xnb</Output>
+      <Time>2015-06-07T08:48:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0039.jpg</Source>
+      <Name>gif\bar\name0039</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0039.xnb</Output>
+      <Time>2015-06-07T08:48:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0040.jpg</Source>
+      <Name>gif\bar\name0040</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0040.xnb</Output>
+      <Time>2015-06-07T08:48:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0041.jpg</Source>
+      <Name>gif\bar\name0041</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0041.xnb</Output>
+      <Time>2015-06-07T08:48:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0042.jpg</Source>
+      <Name>gif\bar\name0042</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0042.xnb</Output>
+      <Time>2015-06-07T08:48:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0043.jpg</Source>
+      <Name>gif\bar\name0043</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0043.xnb</Output>
+      <Time>2015-06-07T08:48:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0044.jpg</Source>
+      <Name>gif\bar\name0044</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0044.xnb</Output>
+      <Time>2015-06-07T08:48:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0045.jpg</Source>
+      <Name>gif\bar\name0045</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0045.xnb</Output>
+      <Time>2015-06-07T08:48:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0046.jpg</Source>
+      <Name>gif\bar\name0046</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0046.xnb</Output>
+      <Time>2015-06-07T08:48:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0047.jpg</Source>
+      <Name>gif\bar\name0047</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0047.xnb</Output>
+      <Time>2015-06-07T08:48:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0048.jpg</Source>
+      <Name>gif\bar\name0048</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0048.xnb</Output>
+      <Time>2015-06-07T08:48:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0049.jpg</Source>
+      <Name>gif\bar\name0049</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0049.xnb</Output>
+      <Time>2015-06-07T08:48:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0050.jpg</Source>
+      <Name>gif\bar\name0050</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0050.xnb</Output>
+      <Time>2015-06-07T08:48:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0051.jpg</Source>
+      <Name>gif\bar\name0051</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0051.xnb</Output>
+      <Time>2015-06-07T08:48:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0052.jpg</Source>
+      <Name>gif\bar\name0052</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0052.xnb</Output>
+      <Time>2015-06-07T08:49:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0053.jpg</Source>
+      <Name>gif\bar\name0053</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0053.xnb</Output>
+      <Time>2015-06-07T08:49:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0054.jpg</Source>
+      <Name>gif\bar\name0054</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0054.xnb</Output>
+      <Time>2015-06-07T08:49:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0055.jpg</Source>
+      <Name>gif\bar\name0055</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0055.xnb</Output>
+      <Time>2015-06-07T08:49:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0056.jpg</Source>
+      <Name>gif\bar\name0056</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0056.xnb</Output>
+      <Time>2015-06-07T08:49:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0057.jpg</Source>
+      <Name>gif\bar\name0057</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0057.xnb</Output>
+      <Time>2015-06-07T08:49:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0058.jpg</Source>
+      <Name>gif\bar\name0058</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0058.xnb</Output>
+      <Time>2015-06-07T08:49:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0059.jpg</Source>
+      <Name>gif\bar\name0059</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0059.xnb</Output>
+      <Time>2015-06-07T08:49:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0060.jpg</Source>
+      <Name>gif\bar\name0060</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0060.xnb</Output>
+      <Time>2015-06-07T08:49:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0061.jpg</Source>
+      <Name>gif\bar\name0061</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0061.xnb</Output>
+      <Time>2015-06-07T08:49:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0062.jpg</Source>
+      <Name>gif\bar\name0062</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0062.xnb</Output>
+      <Time>2015-06-07T08:49:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0063.jpg</Source>
+      <Name>gif\bar\name0063</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0063.xnb</Output>
+      <Time>2015-06-07T08:49:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0064.jpg</Source>
+      <Name>gif\bar\name0064</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0064.xnb</Output>
+      <Time>2015-06-07T08:49:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0065.jpg</Source>
+      <Name>gif\bar\name0065</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0065.xnb</Output>
+      <Time>2015-06-07T08:49:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0066.jpg</Source>
+      <Name>gif\bar\name0066</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0066.xnb</Output>
+      <Time>2015-06-07T08:49:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0067.jpg</Source>
+      <Name>gif\bar\name0067</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0067.xnb</Output>
+      <Time>2015-06-07T08:49:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0068.jpg</Source>
+      <Name>gif\bar\name0068</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0068.xnb</Output>
+      <Time>2015-06-07T08:49:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0069.jpg</Source>
+      <Name>gif\bar\name0069</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0069.xnb</Output>
+      <Time>2015-06-07T08:49:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0070.jpg</Source>
+      <Name>gif\bar\name0070</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0070.xnb</Output>
+      <Time>2015-06-07T08:49:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0071.jpg</Source>
+      <Name>gif\bar\name0071</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0071.xnb</Output>
+      <Time>2015-06-07T08:49:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0072.jpg</Source>
+      <Name>gif\bar\name0072</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0072.xnb</Output>
+      <Time>2015-06-07T08:49:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0073.jpg</Source>
+      <Name>gif\bar\name0073</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0073.xnb</Output>
+      <Time>2015-06-07T08:49:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0074.jpg</Source>
+      <Name>gif\bar\name0074</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0074.xnb</Output>
+      <Time>2015-06-07T08:49:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0075.jpg</Source>
+      <Name>gif\bar\name0075</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0075.xnb</Output>
+      <Time>2015-06-07T08:49:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0076.jpg</Source>
+      <Name>gif\bar\name0076</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0076.xnb</Output>
+      <Time>2015-06-07T08:49:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0077.jpg</Source>
+      <Name>gif\bar\name0077</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0077.xnb</Output>
+      <Time>2015-06-07T08:49:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0078.jpg</Source>
+      <Name>gif\bar\name0078</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0078.xnb</Output>
+      <Time>2015-06-07T08:49:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0079.jpg</Source>
+      <Name>gif\bar\name0079</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0079.xnb</Output>
+      <Time>2015-06-07T08:49:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0080.jpg</Source>
+      <Name>gif\bar\name0080</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0080.xnb</Output>
+      <Time>2015-06-07T08:49:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0081.jpg</Source>
+      <Name>gif\bar\name0081</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0081.xnb</Output>
+      <Time>2015-06-07T08:49:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0082.jpg</Source>
+      <Name>gif\bar\name0082</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0082.xnb</Output>
+      <Time>2015-06-07T08:49:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0083.jpg</Source>
+      <Name>gif\bar\name0083</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0083.xnb</Output>
+      <Time>2015-06-07T08:49:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0084.jpg</Source>
+      <Name>gif\bar\name0084</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0084.xnb</Output>
+      <Time>2015-06-07T08:49:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0085.jpg</Source>
+      <Name>gif\bar\name0085</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0085.xnb</Output>
+      <Time>2015-06-07T08:49:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0086.jpg</Source>
+      <Name>gif\bar\name0086</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0086.xnb</Output>
+      <Time>2015-06-07T08:49:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0087.jpg</Source>
+      <Name>gif\bar\name0087</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0087.xnb</Output>
+      <Time>2015-06-07T08:49:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0088.jpg</Source>
+      <Name>gif\bar\name0088</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0088.xnb</Output>
+      <Time>2015-06-07T08:49:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0089.jpg</Source>
+      <Name>gif\bar\name0089</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0089.xnb</Output>
+      <Time>2015-06-07T08:49:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0090.jpg</Source>
+      <Name>gif\bar\name0090</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0090.xnb</Output>
+      <Time>2015-06-07T08:49:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0091.jpg</Source>
+      <Name>gif\bar\name0091</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0091.xnb</Output>
+      <Time>2015-06-07T08:49:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0092.jpg</Source>
+      <Name>gif\bar\name0092</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0092.xnb</Output>
+      <Time>2015-06-07T08:49:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0093.jpg</Source>
+      <Name>gif\bar\name0093</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0093.xnb</Output>
+      <Time>2015-06-07T08:49:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0094.jpg</Source>
+      <Name>gif\bar\name0094</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0094.xnb</Output>
+      <Time>2015-06-07T08:49:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0095.jpg</Source>
+      <Name>gif\bar\name0095</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0095.xnb</Output>
+      <Time>2015-06-07T08:49:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0096.jpg</Source>
+      <Name>gif\bar\name0096</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0096.xnb</Output>
+      <Time>2015-06-07T08:49:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0097.jpg</Source>
+      <Name>gif\bar\name0097</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0097.xnb</Output>
+      <Time>2015-06-07T08:49:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0098.jpg</Source>
+      <Name>gif\bar\name0098</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0098.xnb</Output>
+      <Time>2015-06-07T08:49:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0099.jpg</Source>
+      <Name>gif\bar\name0099</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0099.xnb</Output>
+      <Time>2015-06-07T08:49:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0100.jpg</Source>
+      <Name>gif\bar\name0100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0100.xnb</Output>
+      <Time>2015-06-07T08:49:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0101.jpg</Source>
+      <Name>gif\bar\name0101</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0101.xnb</Output>
+      <Time>2015-06-07T09:24:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0102.jpg</Source>
+      <Name>gif\bar\name0102</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0102.xnb</Output>
+      <Time>2015-06-07T09:24:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0103.jpg</Source>
+      <Name>gif\bar\name0103</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0103.xnb</Output>
+      <Time>2015-06-07T09:24:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0104.jpg</Source>
+      <Name>gif\bar\name0104</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0104.xnb</Output>
+      <Time>2015-06-07T09:24:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0105.jpg</Source>
+      <Name>gif\bar\name0105</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0105.xnb</Output>
+      <Time>2015-06-07T09:24:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0106.jpg</Source>
+      <Name>gif\bar\name0106</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0106.xnb</Output>
+      <Time>2015-06-07T09:24:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0107.jpg</Source>
+      <Name>gif\bar\name0107</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0107.xnb</Output>
+      <Time>2015-06-07T09:24:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0108.jpg</Source>
+      <Name>gif\bar\name0108</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0108.xnb</Output>
+      <Time>2015-06-07T09:24:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0109.jpg</Source>
+      <Name>gif\bar\name0109</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0109.xnb</Output>
+      <Time>2015-06-07T09:24:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0110.jpg</Source>
+      <Name>gif\bar\name0110</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0110.xnb</Output>
+      <Time>2015-06-07T09:24:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0111.jpg</Source>
+      <Name>gif\bar\name0111</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0111.xnb</Output>
+      <Time>2015-06-07T09:25:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0112.jpg</Source>
+      <Name>gif\bar\name0112</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0112.xnb</Output>
+      <Time>2015-06-07T09:25:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0113.jpg</Source>
+      <Name>gif\bar\name0113</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0113.xnb</Output>
+      <Time>2015-06-07T09:25:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0114.jpg</Source>
+      <Name>gif\bar\name0114</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0114.xnb</Output>
+      <Time>2015-06-07T09:25:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0115.jpg</Source>
+      <Name>gif\bar\name0115</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0115.xnb</Output>
+      <Time>2015-06-07T09:25:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0116.jpg</Source>
+      <Name>gif\bar\name0116</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0116.xnb</Output>
+      <Time>2015-06-07T09:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0117.jpg</Source>
+      <Name>gif\bar\name0117</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0117.xnb</Output>
+      <Time>2015-06-07T09:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0118.jpg</Source>
+      <Name>gif\bar\name0118</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0118.xnb</Output>
+      <Time>2015-06-07T09:25:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0119.jpg</Source>
+      <Name>gif\bar\name0119</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0119.xnb</Output>
+      <Time>2015-06-07T09:25:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0120.jpg</Source>
+      <Name>gif\bar\name0120</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0120.xnb</Output>
+      <Time>2015-06-07T09:25:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0121.jpg</Source>
+      <Name>gif\bar\name0121</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0121.xnb</Output>
+      <Time>2015-06-07T09:25:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0122.jpg</Source>
+      <Name>gif\bar\name0122</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0122.xnb</Output>
+      <Time>2015-06-07T09:25:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0123.jpg</Source>
+      <Name>gif\bar\name0123</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0123.xnb</Output>
+      <Time>2015-06-07T09:25:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0124.jpg</Source>
+      <Name>gif\bar\name0124</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0124.xnb</Output>
+      <Time>2015-06-07T09:25:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0125.jpg</Source>
+      <Name>gif\bar\name0125</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0125.xnb</Output>
+      <Time>2015-06-07T09:25:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0126.jpg</Source>
+      <Name>gif\bar\name0126</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0126.xnb</Output>
+      <Time>2015-06-07T09:25:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0127.jpg</Source>
+      <Name>gif\bar\name0127</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0127.xnb</Output>
+      <Time>2015-06-07T09:25:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0128.jpg</Source>
+      <Name>gif\bar\name0128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0128.xnb</Output>
+      <Time>2015-06-07T09:25:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0129.jpg</Source>
+      <Name>gif\bar\name0129</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0129.xnb</Output>
+      <Time>2015-06-07T09:25:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0130.jpg</Source>
+      <Name>gif\bar\name0130</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0130.xnb</Output>
+      <Time>2015-06-07T09:25:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0131.jpg</Source>
+      <Name>gif\bar\name0131</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0131.xnb</Output>
+      <Time>2015-06-07T09:25:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0132.jpg</Source>
+      <Name>gif\bar\name0132</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0132.xnb</Output>
+      <Time>2015-06-07T09:25:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0133.jpg</Source>
+      <Name>gif\bar\name0133</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0133.xnb</Output>
+      <Time>2015-06-07T09:25:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0134.jpg</Source>
+      <Name>gif\bar\name0134</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0134.xnb</Output>
+      <Time>2015-06-07T09:25:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0135.jpg</Source>
+      <Name>gif\bar\name0135</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0135.xnb</Output>
+      <Time>2015-06-07T09:25:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0136.jpg</Source>
+      <Name>gif\bar\name0136</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0136.xnb</Output>
+      <Time>2015-06-07T09:25:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0137.jpg</Source>
+      <Name>gif\bar\name0137</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0137.xnb</Output>
+      <Time>2015-06-07T09:25:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0138.jpg</Source>
+      <Name>gif\bar\name0138</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0138.xnb</Output>
+      <Time>2015-06-07T09:25:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0139.jpg</Source>
+      <Name>gif\bar\name0139</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0139.xnb</Output>
+      <Time>2015-06-07T09:25:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0140.jpg</Source>
+      <Name>gif\bar\name0140</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0140.xnb</Output>
+      <Time>2015-06-07T09:25:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0141.jpg</Source>
+      <Name>gif\bar\name0141</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0141.xnb</Output>
+      <Time>2015-06-07T09:25:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0142.jpg</Source>
+      <Name>gif\bar\name0142</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0142.xnb</Output>
+      <Time>2015-06-07T09:25:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0143.jpg</Source>
+      <Name>gif\bar\name0143</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0143.xnb</Output>
+      <Time>2015-06-07T09:25:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0144.jpg</Source>
+      <Name>gif\bar\name0144</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0144.xnb</Output>
+      <Time>2015-06-07T09:25:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0145.jpg</Source>
+      <Name>gif\bar\name0145</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0145.xnb</Output>
+      <Time>2015-06-07T09:25:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0146.jpg</Source>
+      <Name>gif\bar\name0146</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0146.xnb</Output>
+      <Time>2015-06-07T09:25:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0147.jpg</Source>
+      <Name>gif\bar\name0147</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0147.xnb</Output>
+      <Time>2015-06-07T09:25:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0148.jpg</Source>
+      <Name>gif\bar\name0148</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0148.xnb</Output>
+      <Time>2015-06-07T09:25:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0149.jpg</Source>
+      <Name>gif\bar\name0149</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0149.xnb</Output>
+      <Time>2015-06-07T09:25:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0150.jpg</Source>
+      <Name>gif\bar\name0150</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0150.xnb</Output>
+      <Time>2015-06-07T09:25:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0151.jpg</Source>
+      <Name>gif\bar\name0151</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0151.xnb</Output>
+      <Time>2015-06-07T09:25:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0152.jpg</Source>
+      <Name>gif\bar\name0152</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0152.xnb</Output>
+      <Time>2015-06-07T09:25:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0153.jpg</Source>
+      <Name>gif\bar\name0153</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0153.xnb</Output>
+      <Time>2015-06-07T09:25:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0154.jpg</Source>
+      <Name>gif\bar\name0154</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0154.xnb</Output>
+      <Time>2015-06-07T09:25:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0155.jpg</Source>
+      <Name>gif\bar\name0155</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0155.xnb</Output>
+      <Time>2015-06-07T09:25:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0156.jpg</Source>
+      <Name>gif\bar\name0156</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0156.xnb</Output>
+      <Time>2015-06-07T09:25:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0157.jpg</Source>
+      <Name>gif\bar\name0157</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0157.xnb</Output>
+      <Time>2015-06-07T09:25:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0158.jpg</Source>
+      <Name>gif\bar\name0158</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0158.xnb</Output>
+      <Time>2015-06-07T09:25:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0159.jpg</Source>
+      <Name>gif\bar\name0159</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0159.xnb</Output>
+      <Time>2015-06-07T09:25:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0160.jpg</Source>
+      <Name>gif\bar\name0160</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0160.xnb</Output>
+      <Time>2015-06-07T09:25:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0161.jpg</Source>
+      <Name>gif\bar\name0161</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0161.xnb</Output>
+      <Time>2015-06-07T09:25:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0162.jpg</Source>
+      <Name>gif\bar\name0162</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0162.xnb</Output>
+      <Time>2015-06-07T09:25:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0163.jpg</Source>
+      <Name>gif\bar\name0163</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0163.xnb</Output>
+      <Time>2015-06-07T09:25:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0164.jpg</Source>
+      <Name>gif\bar\name0164</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0164.xnb</Output>
+      <Time>2015-06-07T09:26:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0165.jpg</Source>
+      <Name>gif\bar\name0165</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0165.xnb</Output>
+      <Time>2015-06-07T09:26:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0166.jpg</Source>
+      <Name>gif\bar\name0166</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0166.xnb</Output>
+      <Time>2015-06-07T09:26:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0167.jpg</Source>
+      <Name>gif\bar\name0167</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0167.xnb</Output>
+      <Time>2015-06-07T09:26:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0168.jpg</Source>
+      <Name>gif\bar\name0168</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0168.xnb</Output>
+      <Time>2015-06-07T09:26:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0169.jpg</Source>
+      <Name>gif\bar\name0169</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0169.xnb</Output>
+      <Time>2015-06-07T09:26:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0170.jpg</Source>
+      <Name>gif\bar\name0170</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0170.xnb</Output>
+      <Time>2015-06-07T09:26:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0171.jpg</Source>
+      <Name>gif\bar\name0171</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0171.xnb</Output>
+      <Time>2015-06-07T09:26:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0172.jpg</Source>
+      <Name>gif\bar\name0172</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0172.xnb</Output>
+      <Time>2015-06-07T09:26:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0173.jpg</Source>
+      <Name>gif\bar\name0173</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0173.xnb</Output>
+      <Time>2015-06-07T09:26:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0174.jpg</Source>
+      <Name>gif\bar\name0174</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0174.xnb</Output>
+      <Time>2015-06-07T09:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0175.jpg</Source>
+      <Name>gif\bar\name0175</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0175.xnb</Output>
+      <Time>2015-06-07T09:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0176.jpg</Source>
+      <Name>gif\bar\name0176</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0176.xnb</Output>
+      <Time>2015-06-07T09:26:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0177.jpg</Source>
+      <Name>gif\bar\name0177</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0177.xnb</Output>
+      <Time>2015-06-07T09:26:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0178.jpg</Source>
+      <Name>gif\bar\name0178</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0178.xnb</Output>
+      <Time>2015-06-07T09:26:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0179.jpg</Source>
+      <Name>gif\bar\name0179</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0179.xnb</Output>
+      <Time>2015-06-07T09:26:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\bar\name0180.jpg</Source>
+      <Name>gif\bar\name0180</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\bar\name0180.xnb</Output>
+      <Time>2015-06-07T09:26:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\1.jpg</Source>
+      <Name>gif\screen\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\screen\1.xnb</Output>
+      <Time>2015-06-08T15:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\2.jpg</Source>
+      <Name>gif\screen\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\screen\2.xnb</Output>
+      <Time>2015-06-08T15:56:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\3.jpg</Source>
+      <Name>gif\screen\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\screen\3.xnb</Output>
+      <Time>2015-06-08T15:56:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\4.jpg</Source>
+      <Name>gif\screen\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\screen\4.xnb</Output>
+      <Time>2015-06-08T15:56:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\5.jpg</Source>
+      <Name>gif\screen\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\screen\5.xnb</Output>
+      <Time>2015-06-08T15:56:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\6.jpg</Source>
+      <Name>gif\screen\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\screen\6.xnb</Output>
+      <Time>2015-06-08T15:56:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\screen\7.jpg</Source>
+      <Name>gif\screen\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\screen\7.xnb</Output>
+      <Time>2015-06-08T15:56:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\m.png</Source>
+      <Name>images\m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\m.xnb</Output>
+      <Time>2015-06-07T20:32:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\m2.png</Source>
+      <Name>images\m2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\m2.xnb</Output>
+      <Time>2015-06-07T20:32:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\danceOff.jpg</Source>
+      <Name>images\game\danceOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\danceOff.xnb</Output>
+      <Time>2015-06-08T22:10:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\danceOn.jpg</Source>
+      <Name>images\game\danceOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\danceOn.xnb</Output>
+      <Time>2015-06-08T22:10:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\hallway.png</Source>
+      <Name>images\game\hallway</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\hallway.xnb</Output>
+      <Time>2015-06-08T22:40:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\LeftAirVent.jpg</Source>
+      <Name>images\game\LeftAirVent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\LeftAirVent.xnb</Output>
+      <Time>2015-06-08T22:23:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\monitorbutton.png</Source>
+      <Name>images\game\monitorbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\monitorbutton.xnb</Output>
+      <Time>2015-06-11T19:58:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\toiletRoomOff.jpg</Source>
+      <Name>images\game\toiletRoomOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\toiletRoomOff.xnb</Output>
+      <Time>2015-06-08T21:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\toiletRoomOn.jpg</Source>
+      <Name>images\game\toiletRoomOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\toiletRoomOn.xnb</Output>
+      <Time>2015-06-08T21:55:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\monitor.png</Source>
+      <Name>images\game\monitor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\monitor.xnb</Output>
+      <Time>2015-06-21T19:27:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0102.jpg</Source>
+      <Name>gif\barLightLeft\left0102</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0102.xnb</Output>
+      <Time>2015-06-12T17:17:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0103.jpg</Source>
+      <Name>gif\barLightLeft\left0103</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0103.xnb</Output>
+      <Time>2015-06-12T17:17:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0104.jpg</Source>
+      <Name>gif\barLightLeft\left0104</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0104.xnb</Output>
+      <Time>2015-06-12T17:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0105.jpg</Source>
+      <Name>gif\barLightLeft\left0105</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0105.xnb</Output>
+      <Time>2015-06-12T17:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0106.jpg</Source>
+      <Name>gif\barLightLeft\left0106</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0106.xnb</Output>
+      <Time>2015-06-12T17:17:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0107.jpg</Source>
+      <Name>gif\barLightLeft\left0107</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0107.xnb</Output>
+      <Time>2015-06-12T17:17:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0108.jpg</Source>
+      <Name>gif\barLightLeft\left0108</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0108.xnb</Output>
+      <Time>2015-06-12T17:17:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0109.jpg</Source>
+      <Name>gif\barLightLeft\left0109</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0109.xnb</Output>
+      <Time>2015-06-12T17:17:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0110.jpg</Source>
+      <Name>gif\barLightLeft\left0110</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0110.xnb</Output>
+      <Time>2015-06-12T17:17:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0111.jpg</Source>
+      <Name>gif\barLightLeft\left0111</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0111.xnb</Output>
+      <Time>2015-06-12T17:17:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0112.jpg</Source>
+      <Name>gif\barLightLeft\left0112</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0112.xnb</Output>
+      <Time>2015-06-12T17:17:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0113.jpg</Source>
+      <Name>gif\barLightLeft\left0113</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0113.xnb</Output>
+      <Time>2015-06-12T17:17:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0114.jpg</Source>
+      <Name>gif\barLightLeft\left0114</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0114.xnb</Output>
+      <Time>2015-06-12T17:17:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0115.jpg</Source>
+      <Name>gif\barLightLeft\left0115</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0115.xnb</Output>
+      <Time>2015-06-12T17:17:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0116.jpg</Source>
+      <Name>gif\barLightLeft\left0116</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0116.xnb</Output>
+      <Time>2015-06-12T17:17:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0117.jpg</Source>
+      <Name>gif\barLightLeft\left0117</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0117.xnb</Output>
+      <Time>2015-06-12T17:17:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0118.jpg</Source>
+      <Name>gif\barLightLeft\left0118</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0118.xnb</Output>
+      <Time>2015-06-12T17:17:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0119.jpg</Source>
+      <Name>gif\barLightLeft\left0119</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0119.xnb</Output>
+      <Time>2015-06-12T17:17:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0120.jpg</Source>
+      <Name>gif\barLightLeft\left0120</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0120.xnb</Output>
+      <Time>2015-06-12T17:17:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0121.jpg</Source>
+      <Name>gif\barLightLeft\left0121</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0121.xnb</Output>
+      <Time>2015-06-12T17:17:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0122.jpg</Source>
+      <Name>gif\barLightLeft\left0122</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0122.xnb</Output>
+      <Time>2015-06-12T17:17:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0123.jpg</Source>
+      <Name>gif\barLightLeft\left0123</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0123.xnb</Output>
+      <Time>2015-06-12T17:17:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0124.jpg</Source>
+      <Name>gif\barLightLeft\left0124</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0124.xnb</Output>
+      <Time>2015-06-12T17:17:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0125.jpg</Source>
+      <Name>gif\barLightLeft\left0125</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0125.xnb</Output>
+      <Time>2015-06-12T17:17:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0126.jpg</Source>
+      <Name>gif\barLightLeft\left0126</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0126.xnb</Output>
+      <Time>2015-06-12T17:18:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0127.jpg</Source>
+      <Name>gif\barLightLeft\left0127</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0127.xnb</Output>
+      <Time>2015-06-12T17:18:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0128.jpg</Source>
+      <Name>gif\barLightLeft\left0128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0128.xnb</Output>
+      <Time>2015-06-12T17:18:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0129.jpg</Source>
+      <Name>gif\barLightLeft\left0129</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0129.xnb</Output>
+      <Time>2015-06-12T17:18:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0130.jpg</Source>
+      <Name>gif\barLightLeft\left0130</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0130.xnb</Output>
+      <Time>2015-06-12T17:18:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0131.jpg</Source>
+      <Name>gif\barLightLeft\left0131</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0131.xnb</Output>
+      <Time>2015-06-12T17:18:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0132.jpg</Source>
+      <Name>gif\barLightLeft\left0132</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0132.xnb</Output>
+      <Time>2015-06-12T17:18:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0133.jpg</Source>
+      <Name>gif\barLightLeft\left0133</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0133.xnb</Output>
+      <Time>2015-06-12T17:18:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0134.jpg</Source>
+      <Name>gif\barLightLeft\left0134</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0134.xnb</Output>
+      <Time>2015-06-12T17:18:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0135.jpg</Source>
+      <Name>gif\barLightLeft\left0135</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0135.xnb</Output>
+      <Time>2015-06-12T17:18:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0136.jpg</Source>
+      <Name>gif\barLightLeft\left0136</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0136.xnb</Output>
+      <Time>2015-06-12T17:18:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0137.jpg</Source>
+      <Name>gif\barLightLeft\left0137</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0137.xnb</Output>
+      <Time>2015-06-12T17:18:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0138.jpg</Source>
+      <Name>gif\barLightLeft\left0138</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0138.xnb</Output>
+      <Time>2015-06-12T17:18:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0139.jpg</Source>
+      <Name>gif\barLightLeft\left0139</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0139.xnb</Output>
+      <Time>2015-06-12T17:18:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0140.jpg</Source>
+      <Name>gif\barLightLeft\left0140</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0140.xnb</Output>
+      <Time>2015-06-12T17:18:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0141.jpg</Source>
+      <Name>gif\barLightLeft\left0141</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0141.xnb</Output>
+      <Time>2015-06-12T17:18:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0142.jpg</Source>
+      <Name>gif\barLightLeft\left0142</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0142.xnb</Output>
+      <Time>2015-06-12T17:18:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0143.jpg</Source>
+      <Name>gif\barLightLeft\left0143</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0143.xnb</Output>
+      <Time>2015-06-12T17:18:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0144.jpg</Source>
+      <Name>gif\barLightLeft\left0144</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0144.xnb</Output>
+      <Time>2015-06-12T17:18:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0145.jpg</Source>
+      <Name>gif\barLightLeft\left0145</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0145.xnb</Output>
+      <Time>2015-06-12T17:18:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0146.jpg</Source>
+      <Name>gif\barLightLeft\left0146</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0146.xnb</Output>
+      <Time>2015-06-12T17:18:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0147.jpg</Source>
+      <Name>gif\barLightLeft\left0147</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0147.xnb</Output>
+      <Time>2015-06-12T17:18:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0148.jpg</Source>
+      <Name>gif\barLightLeft\left0148</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0148.xnb</Output>
+      <Time>2015-06-12T17:18:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0149.jpg</Source>
+      <Name>gif\barLightLeft\left0149</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0149.xnb</Output>
+      <Time>2015-06-12T17:18:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0150.jpg</Source>
+      <Name>gif\barLightLeft\left0150</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0150.xnb</Output>
+      <Time>2015-06-12T17:18:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0151.jpg</Source>
+      <Name>gif\barLightLeft\left0151</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0151.xnb</Output>
+      <Time>2015-06-12T17:18:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0152.jpg</Source>
+      <Name>gif\barLightLeft\left0152</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0152.xnb</Output>
+      <Time>2015-06-12T17:18:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0153.jpg</Source>
+      <Name>gif\barLightLeft\left0153</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0153.xnb</Output>
+      <Time>2015-06-12T17:18:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0154.jpg</Source>
+      <Name>gif\barLightLeft\left0154</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0154.xnb</Output>
+      <Time>2015-06-12T17:18:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0155.jpg</Source>
+      <Name>gif\barLightLeft\left0155</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0155.xnb</Output>
+      <Time>2015-06-12T17:18:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0156.jpg</Source>
+      <Name>gif\barLightLeft\left0156</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0156.xnb</Output>
+      <Time>2015-06-12T17:18:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0157.jpg</Source>
+      <Name>gif\barLightLeft\left0157</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0157.xnb</Output>
+      <Time>2015-06-12T17:18:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0158.jpg</Source>
+      <Name>gif\barLightLeft\left0158</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0158.xnb</Output>
+      <Time>2015-06-12T17:18:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0159.jpg</Source>
+      <Name>gif\barLightLeft\left0159</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0159.xnb</Output>
+      <Time>2015-06-12T17:18:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0160.jpg</Source>
+      <Name>gif\barLightLeft\left0160</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0160.xnb</Output>
+      <Time>2015-06-12T17:18:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0161.jpg</Source>
+      <Name>gif\barLightLeft\left0161</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0161.xnb</Output>
+      <Time>2015-06-12T17:18:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0162.jpg</Source>
+      <Name>gif\barLightLeft\left0162</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0162.xnb</Output>
+      <Time>2015-06-12T17:18:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0163.jpg</Source>
+      <Name>gif\barLightLeft\left0163</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0163.xnb</Output>
+      <Time>2015-06-12T17:18:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0164.jpg</Source>
+      <Name>gif\barLightLeft\left0164</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0164.xnb</Output>
+      <Time>2015-06-12T17:18:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0165.jpg</Source>
+      <Name>gif\barLightLeft\left0165</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0165.xnb</Output>
+      <Time>2015-06-12T17:18:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0166.jpg</Source>
+      <Name>gif\barLightLeft\left0166</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0166.xnb</Output>
+      <Time>2015-06-12T17:18:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0167.jpg</Source>
+      <Name>gif\barLightLeft\left0167</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0167.xnb</Output>
+      <Time>2015-06-12T17:18:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0168.jpg</Source>
+      <Name>gif\barLightLeft\left0168</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0168.xnb</Output>
+      <Time>2015-06-12T17:18:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0169.jpg</Source>
+      <Name>gif\barLightLeft\left0169</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0169.xnb</Output>
+      <Time>2015-06-12T17:18:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0170.jpg</Source>
+      <Name>gif\barLightLeft\left0170</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0170.xnb</Output>
+      <Time>2015-06-12T17:18:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0171.jpg</Source>
+      <Name>gif\barLightLeft\left0171</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0171.xnb</Output>
+      <Time>2015-06-12T17:18:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0172.jpg</Source>
+      <Name>gif\barLightLeft\left0172</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0172.xnb</Output>
+      <Time>2015-06-12T17:18:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0173.jpg</Source>
+      <Name>gif\barLightLeft\left0173</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0173.xnb</Output>
+      <Time>2015-06-12T17:18:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0174.jpg</Source>
+      <Name>gif\barLightLeft\left0174</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0174.xnb</Output>
+      <Time>2015-06-12T17:18:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0175.jpg</Source>
+      <Name>gif\barLightLeft\left0175</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0175.xnb</Output>
+      <Time>2015-06-12T17:18:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0176.jpg</Source>
+      <Name>gif\barLightLeft\left0176</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0176.xnb</Output>
+      <Time>2015-06-12T17:18:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0177.jpg</Source>
+      <Name>gif\barLightLeft\left0177</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0177.xnb</Output>
+      <Time>2015-06-12T17:18:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0178.jpg</Source>
+      <Name>gif\barLightLeft\left0178</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0178.xnb</Output>
+      <Time>2015-06-12T17:18:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0179.jpg</Source>
+      <Name>gif\barLightLeft\left0179</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0179.xnb</Output>
+      <Time>2015-06-12T17:19:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightLeft\left0180.jpg</Source>
+      <Name>gif\barLightLeft\left0180</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightLeft\left0180.xnb</Output>
+      <Time>2015-06-12T17:19:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0000.jpg</Source>
+      <Name>gif\barLightRight\left0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0000.xnb</Output>
+      <Time>2015-06-12T17:28:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0001.jpg</Source>
+      <Name>gif\barLightRight\left0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0001.xnb</Output>
+      <Time>2015-06-12T17:28:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0002.jpg</Source>
+      <Name>gif\barLightRight\left0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0002.xnb</Output>
+      <Time>2015-06-12T17:28:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0003.jpg</Source>
+      <Name>gif\barLightRight\left0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0003.xnb</Output>
+      <Time>2015-06-12T17:28:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0004.jpg</Source>
+      <Name>gif\barLightRight\left0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0004.xnb</Output>
+      <Time>2015-06-12T17:28:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0005.jpg</Source>
+      <Name>gif\barLightRight\left0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0005.xnb</Output>
+      <Time>2015-06-12T17:28:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0006.jpg</Source>
+      <Name>gif\barLightRight\left0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0006.xnb</Output>
+      <Time>2015-06-12T17:28:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0007.jpg</Source>
+      <Name>gif\barLightRight\left0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0007.xnb</Output>
+      <Time>2015-06-12T17:28:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0008.jpg</Source>
+      <Name>gif\barLightRight\left0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0008.xnb</Output>
+      <Time>2015-06-12T17:28:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0009.jpg</Source>
+      <Name>gif\barLightRight\left0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0009.xnb</Output>
+      <Time>2015-06-12T17:28:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0010.jpg</Source>
+      <Name>gif\barLightRight\left0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0010.xnb</Output>
+      <Time>2015-06-12T17:28:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0011.jpg</Source>
+      <Name>gif\barLightRight\left0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0011.xnb</Output>
+      <Time>2015-06-12T17:28:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0012.jpg</Source>
+      <Name>gif\barLightRight\left0012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0012.xnb</Output>
+      <Time>2015-06-12T17:28:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0013.jpg</Source>
+      <Name>gif\barLightRight\left0013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0013.xnb</Output>
+      <Time>2015-06-12T17:28:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0014.jpg</Source>
+      <Name>gif\barLightRight\left0014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0014.xnb</Output>
+      <Time>2015-06-12T17:28:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0015.jpg</Source>
+      <Name>gif\barLightRight\left0015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0015.xnb</Output>
+      <Time>2015-06-12T17:28:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0016.jpg</Source>
+      <Name>gif\barLightRight\left0016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0016.xnb</Output>
+      <Time>2015-06-12T17:28:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0017.jpg</Source>
+      <Name>gif\barLightRight\left0017</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0017.xnb</Output>
+      <Time>2015-06-12T17:28:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0018.jpg</Source>
+      <Name>gif\barLightRight\left0018</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0018.xnb</Output>
+      <Time>2015-06-12T17:28:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0019.jpg</Source>
+      <Name>gif\barLightRight\left0019</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0019.xnb</Output>
+      <Time>2015-06-12T17:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0020.jpg</Source>
+      <Name>gif\barLightRight\left0020</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0020.xnb</Output>
+      <Time>2015-06-12T17:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0021.jpg</Source>
+      <Name>gif\barLightRight\left0021</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0021.xnb</Output>
+      <Time>2015-06-12T17:28:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0022.jpg</Source>
+      <Name>gif\barLightRight\left0022</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0022.xnb</Output>
+      <Time>2015-06-12T17:28:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0023.jpg</Source>
+      <Name>gif\barLightRight\left0023</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0023.xnb</Output>
+      <Time>2015-06-12T17:28:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0024.jpg</Source>
+      <Name>gif\barLightRight\left0024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0024.xnb</Output>
+      <Time>2015-06-12T17:28:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0025.jpg</Source>
+      <Name>gif\barLightRight\left0025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0025.xnb</Output>
+      <Time>2015-06-12T17:29:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0026.jpg</Source>
+      <Name>gif\barLightRight\left0026</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0026.xnb</Output>
+      <Time>2015-06-12T17:29:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0027.jpg</Source>
+      <Name>gif\barLightRight\left0027</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0027.xnb</Output>
+      <Time>2015-06-12T17:29:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0028.jpg</Source>
+      <Name>gif\barLightRight\left0028</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0028.xnb</Output>
+      <Time>2015-06-12T17:29:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0029.jpg</Source>
+      <Name>gif\barLightRight\left0029</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0029.xnb</Output>
+      <Time>2015-06-12T17:29:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0030.jpg</Source>
+      <Name>gif\barLightRight\left0030</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0030.xnb</Output>
+      <Time>2015-06-12T17:29:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0031.jpg</Source>
+      <Name>gif\barLightRight\left0031</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0031.xnb</Output>
+      <Time>2015-06-12T17:29:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0032.jpg</Source>
+      <Name>gif\barLightRight\left0032</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0032.xnb</Output>
+      <Time>2015-06-12T17:29:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0033.jpg</Source>
+      <Name>gif\barLightRight\left0033</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0033.xnb</Output>
+      <Time>2015-06-12T17:29:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0034.jpg</Source>
+      <Name>gif\barLightRight\left0034</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0034.xnb</Output>
+      <Time>2015-06-12T17:29:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0035.jpg</Source>
+      <Name>gif\barLightRight\left0035</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0035.xnb</Output>
+      <Time>2015-06-12T17:29:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0036.jpg</Source>
+      <Name>gif\barLightRight\left0036</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0036.xnb</Output>
+      <Time>2015-06-12T17:29:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0037.jpg</Source>
+      <Name>gif\barLightRight\left0037</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0037.xnb</Output>
+      <Time>2015-06-12T17:29:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0038.jpg</Source>
+      <Name>gif\barLightRight\left0038</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0038.xnb</Output>
+      <Time>2015-06-12T17:29:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0039.jpg</Source>
+      <Name>gif\barLightRight\left0039</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0039.xnb</Output>
+      <Time>2015-06-12T17:29:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0040.jpg</Source>
+      <Name>gif\barLightRight\left0040</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0040.xnb</Output>
+      <Time>2015-06-12T17:29:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0041.jpg</Source>
+      <Name>gif\barLightRight\left0041</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0041.xnb</Output>
+      <Time>2015-06-12T17:29:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0042.jpg</Source>
+      <Name>gif\barLightRight\left0042</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0042.xnb</Output>
+      <Time>2015-06-12T17:29:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0043.jpg</Source>
+      <Name>gif\barLightRight\left0043</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0043.xnb</Output>
+      <Time>2015-06-12T17:29:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0044.jpg</Source>
+      <Name>gif\barLightRight\left0044</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0044.xnb</Output>
+      <Time>2015-06-12T17:29:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0045.jpg</Source>
+      <Name>gif\barLightRight\left0045</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0045.xnb</Output>
+      <Time>2015-06-12T17:29:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0046.jpg</Source>
+      <Name>gif\barLightRight\left0046</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0046.xnb</Output>
+      <Time>2015-06-12T17:29:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0047.jpg</Source>
+      <Name>gif\barLightRight\left0047</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0047.xnb</Output>
+      <Time>2015-06-12T17:29:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0048.jpg</Source>
+      <Name>gif\barLightRight\left0048</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0048.xnb</Output>
+      <Time>2015-06-12T17:29:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0049.jpg</Source>
+      <Name>gif\barLightRight\left0049</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0049.xnb</Output>
+      <Time>2015-06-12T17:29:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0050.jpg</Source>
+      <Name>gif\barLightRight\left0050</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0050.xnb</Output>
+      <Time>2015-06-12T17:29:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0051.jpg</Source>
+      <Name>gif\barLightRight\left0051</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0051.xnb</Output>
+      <Time>2015-06-12T17:29:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0052.jpg</Source>
+      <Name>gif\barLightRight\left0052</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0052.xnb</Output>
+      <Time>2015-06-12T17:29:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gif\barLightRight\left0053.jpg</Source>
+      <Name>gif\barLightRight\left0053</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\gif\barLightRight\left0053.xnb</Output>
+      <Time>2015-06-12T17:29:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\lightOff.png</Source>
+      <Name>images\game\lightOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\lightOff.xnb</Output>
+      <Time>2015-06-13T01:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\lightOn.png</Source>
+      <Name>images\game\lightOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\lightOn.xnb</Output>
+      <Time>2015-06-13T01:20:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\game\monitorMap.png</Source>
+      <Name>images\game\monitorMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\game\monitorMap.xnb</Output>
+      <Time>2015-06-13T15:01:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>images\ABZ logo.png</Source>
+      <Name>images\ABZ logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\ABZ logo.xnb</Output>
+      <Time>2015-10-07T22:47:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\loadscreen.png</Source>
+      <Name>images\loadscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\loadscreen.xnb</Output>
+      <Time>2015-10-07T22:49:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\mainscreen.jpg</Source>
+      <Name>images\mainscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\mainscreen.xnb</Output>
+      <Time>2015-10-15T10:25:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\login\blood.png</Source>
+      <Name>images\login\blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\login\blood.xnb</Output>
+      <Time>2015-10-21T18:12:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\login\text-inputk.png</Source>
+      <Name>images\login\text-inputk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\login\text-inputk.xnb</Output>
+      <Time>2015-10-21T18:55:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\login\login.jpg</Source>
+      <Name>images\login\login</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\login\login.xnb</Output>
+      <Time>2015-10-21T19:09:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\login\button.png</Source>
+      <Name>images\login\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\images\login\button.xnb</Output>
+      <Time>2015-10-22T10:20:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\ingametext.spritefont</Source>
+      <Name>fonts\ingametext</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\fonts\ingametext.xnb</Output>
+      <Time>2015-10-12T08:18:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\logo.spritefont</Source>
+      <Name>fonts\logo</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\fonts\logo.xnb</Output>
+      <Time>2015-10-17T17:33:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\menu.spritefont</Source>
+      <Name>fonts\menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\fonts\menu.xnb</Output>
+      <Time>2015-10-13T14:35:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\login.spritefont</Source>
+      <Name>fonts\login</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\fonts\login.xnb</Output>
+      <Time>2015-10-21T19:34:12+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{681953B8-452A-4ACB-9BCF-5C1AA1139F88}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\student\Desktop\spooki bar\spooki barContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\student\Desktop\spooki bar\spooki bar\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\student\Desktop\spooki bar\spooki bar\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\student\Desktop\spooki bar\spooki bar\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-22T12:09:12.9022269+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

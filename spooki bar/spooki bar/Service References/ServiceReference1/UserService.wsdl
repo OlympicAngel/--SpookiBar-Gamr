@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="UserService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://abz.somee.com/spookibar/UsersDataService/UserService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://abz.somee.com/spookibar/UsersDataService/UserService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://abz.somee.com/spookibar/UsersDataService/UserService.svc?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xsd:import schemaLocation="http://abz.somee.com/spookibar/UsersDataService/UserService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/UsersDataService" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IUserService_CheckUpdate_InputMessage">
+    <wsdl:part name="parameters" element="tns:CheckUpdate" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_CheckUpdate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CheckUpdateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_UserLogin_InputMessage">
+    <wsdl:part name="parameters" element="tns:UserLogin" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_UserLogin_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UserLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_GetTopAtGameAndUserRate_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTopAtGameAndUserRate" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_GetTopAtGameAndUserRate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTopAtGameAndUserRateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_GetShop_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetShop" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_GetShop_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetShopResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_BuyItemFromShop_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuyItemFromShop" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_BuyItemFromShop_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuyItemFromShopResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_ResetSave_InputMessage">
+    <wsdl:part name="parameters" element="tns:ResetSave" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_ResetSave_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ResetSaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_UserData_InputMessage">
+    <wsdl:part name="parameters" element="tns:UserData" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_UserData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UserDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_UseItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:UseItem" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_UseItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UseItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_InGameEnd_InputMessage">
+    <wsdl:part name="parameters" element="tns:InGameEnd" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_InGameEnd_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InGameEndResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_UpdateAfterGame_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAfterGame" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_UpdateAfterGame_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAfterGameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_ResetUserData_InputMessage">
+    <wsdl:part name="parameters" element="tns:ResetUserData" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_ResetUserData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ResetUserDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_ItemOwnList_InputMessage">
+    <wsdl:part name="parameters" element="tns:ItemOwnList" />
+  </wsdl:message>
+  <wsdl:message name="IUserService_ItemOwnList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ItemOwnListResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IUserService">
+    <wsdl:operation name="CheckUpdate">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/CheckUpdate" message="tns:IUserService_CheckUpdate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/CheckUpdateResponse" message="tns:IUserService_CheckUpdate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UserLogin">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/UserLogin" message="tns:IUserService_UserLogin_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/UserLoginResponse" message="tns:IUserService_UserLogin_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTopAtGameAndUserRate">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/GetTopAtGameAndUserRate" message="tns:IUserService_GetTopAtGameAndUserRate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/GetTopAtGameAndUserRateResponse" message="tns:IUserService_GetTopAtGameAndUserRate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetShop">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/GetShop" message="tns:IUserService_GetShop_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/GetShopResponse" message="tns:IUserService_GetShop_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuyItemFromShop">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/BuyItemFromShop" message="tns:IUserService_BuyItemFromShop_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/BuyItemFromShopResponse" message="tns:IUserService_BuyItemFromShop_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ResetSave">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/ResetSave" message="tns:IUserService_ResetSave_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/ResetSaveResponse" message="tns:IUserService_ResetSave_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UserData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/UserData" message="tns:IUserService_UserData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/UserDataResponse" message="tns:IUserService_UserData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UseItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/UseItem" message="tns:IUserService_UseItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/UseItemResponse" message="tns:IUserService_UseItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InGameEnd">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/InGameEnd" message="tns:IUserService_InGameEnd_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/InGameEndResponse" message="tns:IUserService_InGameEnd_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAfterGame">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/UpdateAfterGame" message="tns:IUserService_UpdateAfterGame_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/UpdateAfterGameResponse" message="tns:IUserService_UpdateAfterGame_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ResetUserData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/ResetUserData" message="tns:IUserService_ResetUserData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/ResetUserDataResponse" message="tns:IUserService_ResetUserData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ItemOwnList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IUserService/ItemOwnList" message="tns:IUserService_ItemOwnList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IUserService/ItemOwnListResponse" message="tns:IUserService_ItemOwnList_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IUserService" type="tns:IUserService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CheckUpdate">
+      <soap:operation soapAction="http://tempuri.org/IUserService/CheckUpdate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UserLogin">
+      <soap:operation soapAction="http://tempuri.org/IUserService/UserLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTopAtGameAndUserRate">
+      <soap:operation soapAction="http://tempuri.org/IUserService/GetTopAtGameAndUserRate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetShop">
+      <soap:operation soapAction="http://tempuri.org/IUserService/GetShop" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuyItemFromShop">
+      <soap:operation soapAction="http://tempuri.org/IUserService/BuyItemFromShop" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResetSave">
+      <soap:operation soapAction="http://tempuri.org/IUserService/ResetSave" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UserData">
+      <soap:operation soapAction="http://tempuri.org/IUserService/UserData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UseItem">
+      <soap:operation soapAction="http://tempuri.org/IUserService/UseItem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InGameEnd">
+      <soap:operation soapAction="http://tempuri.org/IUserService/InGameEnd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAfterGame">
+      <soap:operation soapAction="http://tempuri.org/IUserService/UpdateAfterGame" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResetUserData">
+      <soap:operation soapAction="http://tempuri.org/IUserService/ResetUserData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ItemOwnList">
+      <soap:operation soapAction="http://tempuri.org/IUserService/ItemOwnList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UserService">
+    <wsdl:port name="BasicHttpBinding_IUserService" binding="tns:BasicHttpBinding_IUserService">
+      <soap:address location="http://abz.somee.com/spookibar/UsersDataService/UserService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

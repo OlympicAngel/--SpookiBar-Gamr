@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UsersDataService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UsersDataService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Shop">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ShopItem" nillable="true" type="tns:ShopItem" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Shop" nillable="true" type="tns:Shop" />
+  <xs:complexType name="ShopItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="itemID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="itemName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="loaclPatch" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="price" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ShopItem" nillable="true" type="tns:ShopItem" />
+</xs:schema>
